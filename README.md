@@ -35,10 +35,13 @@ A simple and intuitive **Age Calculator** that helps users determine their exact
    git clone https://github.com/your-username/age-calculator.git
    cd age-calculator
 
-## age-calculator/
-│
-├── index.html        # Main webpage
-├── style.css         # Styling for the app
-├── script.js         # JavaScript logic for calculation
-├── app.py            # (Optional) Python backend
-└── README.md         # Documentation
+📁 age-calculator/
+├── 📁 frontend/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+├── 📁 backend/
+│   └── app.py (optional for Python integration)
+├── 📁 assets/
+│   └── images/
+└── README.md
